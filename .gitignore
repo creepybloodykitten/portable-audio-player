@@ -1,0 +1,28 @@
+.vscode/
+.history/
+.DS_Store
+Thumbs.db
+
+# KiCad 8 Files
+# Временные файлы блокировки и автосохранения
+*.lck
+*_autosave-*
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.bak
+# Локальные пользовательские настройки проекта
+# (позиция окон, зум — у каждого разработчика свои)
+*.kicad_prl
+# Кеш посадочных мест
+fp-info-cache
+# Отчеты проверки правил DRC и ERC
+*.drc
+*.rpt
+# Временные файлы симуляции Spice
+*.cir
+*.sim
+# Производственные файлы (Gerber)
+# (Их обычно не коммитят в исходники, а прикрепляют к Releases)
+gerber/
+production/
+
