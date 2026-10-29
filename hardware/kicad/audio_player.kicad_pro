@@ -665,7 +665,7 @@
         "uuid": "b494b84f-4846-40ac-b373-a226c6c544f1"
       }
     ],
-    "used_designators": "#PWR1-11,BT1,C1-22,D1,IC1,J1-5,L1,LicheeRV_Nano_W1-3,R1-8,SW1-4,U1-7",
+    "used_designators": "#PWR1-18,BT1,C1-25,D1,IC1,J1-5,L1,LicheeRV_Nano_W1-3,R1-10,SW1-4,U1-7",
     "variants": []
   },
   "sheets": [
