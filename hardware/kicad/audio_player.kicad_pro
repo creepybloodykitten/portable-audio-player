@@ -263,7 +263,16 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "power_pin_not_driven|3327400|1600200|bcf5c5f4-4724-44a0-9467-7af79d503d9f|00000000-0000-0000-0000-000000000000|/b494b84f-4846-40ac-b373-a226c6c544f1|/b494b84f-4846-40ac-b373-a226c6c544f1|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|3327400|1905000|cc5e4abc-c486-4279-8379-cbfaa17b979e|00000000-0000-0000-0000-000000000000|/b494b84f-4846-40ac-b373-a226c6c544f1|/b494b84f-4846-40ac-b373-a226c6c544f1|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -665,7 +674,7 @@
         "uuid": "b494b84f-4846-40ac-b373-a226c6c544f1"
       }
     ],
-    "used_designators": "#PWR1-53,BT1,C1-37,D1,IC1,J1-5,L1,LicheeRV_Nano_W1-3,R1-21,SW1-4,U1-7",
+    "used_designators": "#FLG1-4,#PWR1-54,BT1,C1-37,D1,IC1,J1-5,L1,LicheeRV_Nano_W1-3,R1-21,SW1-4,U1-7",
     "variants": []
   },
   "sheets": [
