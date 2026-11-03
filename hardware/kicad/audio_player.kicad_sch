@@ -7147,7 +7147,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0142a28f-8ced-4236-a59f-83a2c576747c")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR019"
 			(at 157.48 248.92 0)
 			(hide yes)
 			(show_name no)
@@ -7207,7 +7207,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR011")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -7224,7 +7224,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "03b1f66f-f969-4702-9457-6262afa4c179")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR033"
 			(at 311.15 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -7285,7 +7285,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR021")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -7302,7 +7302,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "07ce8fc3-de71-43c5-b788-a4c292df53ee")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR048"
 			(at 345.44 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -7362,7 +7362,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR025")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -7380,7 +7380,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07e8063f-7fca-43dc-87a1-cf33050c6cab")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 201.295 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7400,7 +7400,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" ""
 			(at 200.66 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -7454,7 +7454,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -7471,7 +7471,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0be95de4-cd08-464a-92d2-77f3ced6f277")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR027"
 			(at 309.88 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -7531,7 +7531,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR028")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -7548,7 +7548,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "14a338e0-724f-49a5-834d-ee8ef6cfafc4")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR026"
 			(at 307.34 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -7609,7 +7609,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR029")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -7627,7 +7627,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14b866fb-e016-4ab7-8bff-9434a344a517")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR06"
 			(at 77.47 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -7687,7 +7687,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR03")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -7704,7 +7704,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "15f36fa5-26a1-41fb-b89b-14b1dfa37b70")
-		(property "Reference" "C34"
+		(property "Reference" "C11"
 			(at 113.03 126.746 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7726,7 +7726,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 111.76 127 0)
 			(hide yes)
 			(show_name no)
@@ -7768,7 +7768,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C34")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -7785,7 +7785,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "178b169f-d57b-4013-a29c-a08cae9e8378")
-		(property "Reference" "C7"
+		(property "Reference" "C20"
 			(at 311.15 170.942 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7805,7 +7805,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RF_Module:Jadak_Thingmagic_M6e-Nano"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 311.15 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -7847,7 +7847,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C7")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -7865,7 +7865,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a3c1e4a-a1a1-489d-8ccc-e1fcc64ec2fa")
-		(property "Reference" "SW3"
+		(property "Reference" "SW2"
 			(at 86.36 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7927,7 +7927,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "SW3")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -7944,7 +7944,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1ce95b02-e100-4b02-803d-4cf85bb1db5f")
-		(property "Reference" "R21"
+		(property "Reference" "R6"
 			(at 85.09 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7966,7 +7966,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 83.82 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -8008,7 +8008,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R21")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -8025,7 +8025,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1e2a4549-7a4e-4b23-b32b-8a950548499b")
-		(property "Reference" "R13"
+		(property "Reference" "R10"
 			(at 102.616 120.904 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8047,7 +8047,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 104.14 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -8089,7 +8089,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R13")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -8187,7 +8187,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "22a0c6f4-c7bc-45f5-a5ac-f44b780ec085")
-		(property "Reference" "C6"
+		(property "Reference" "C26"
 			(at 335.534 198.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8207,7 +8207,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RF_Module:Jadak_Thingmagic_M6e-Nano"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 332.74 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -8249,7 +8249,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C6")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -8266,7 +8266,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "242a922c-ea82-4281-a450-57a720c85dfc")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR025"
 			(at 213.36 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -8326,7 +8326,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR012")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -8343,7 +8343,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "25ced0d6-8a37-4047-ae35-5333bfaa7725")
-		(property "Reference" "C25"
+		(property "Reference" "C21"
 			(at 312.928 57.404 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8365,7 +8365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 314.96 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -8407,7 +8407,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C25")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -8424,7 +8424,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "281e169e-86dc-46c1-8c35-67cc9d2440cf")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR016"
 			(at 111.76 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -8485,7 +8485,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR048")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -8502,7 +8502,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "28845cfd-7379-488b-bbd2-446fec1a4395")
-		(property "Reference" "R8"
+		(property "Reference" "R20"
 			(at 348.488 94.996 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8524,7 +8524,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 349.25 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -8566,7 +8566,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R8")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -8583,7 +8583,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2899e4ab-8636-43c0-9d8e-c65591492f9e")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR030"
 			(at 311.15 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -8644,7 +8644,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR039")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -8661,7 +8661,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2989a830-c111-4534-88f0-2b6ebd7b4082")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR08"
 			(at 74.93 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -8722,7 +8722,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR045")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -8739,7 +8739,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2fc393ef-bf44-49ec-b9a4-271128e6cb20")
-		(property "Reference" "C13"
+		(property "Reference" "C8"
 			(at 98.806 206.248 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8761,7 +8761,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 96.52 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -8803,7 +8803,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C13")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -8820,7 +8820,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "313a6543-db85-4061-a0c3-75cabbe19521")
-		(property "Reference" "R9"
+		(property "Reference" "R18"
 			(at 224.028 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8842,7 +8842,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 222.25 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -8884,7 +8884,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R9")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -9014,7 +9014,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "371a602d-6c29-4e04-80b5-f666630fc0f0")
-		(property "Reference" "U6"
+		(property "Reference" "U3"
 			(at 159.766 220.218 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9096,7 +9096,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "U6")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -9113,7 +9113,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "37ed27ce-bf71-482b-a1a2-444d4fc305fe")
-		(property "Reference" "R5"
+		(property "Reference" "R14"
 			(at 128.524 205.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9135,7 +9135,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 133.35 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -9177,7 +9177,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R5")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -9194,7 +9194,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "39815cec-09c2-47f6-a83b-d8d463532303")
-		(property "Reference" "C8"
+		(property "Reference" "C19"
 			(at 311.15 162.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9214,7 +9214,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RF_Module:Jadak_Thingmagic_M6e-Nano"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 311.15 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -9256,7 +9256,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C8")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -9273,7 +9273,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3bf68b5b-1373-45f3-a6b5-509b19ab5a1e")
-		(property "Reference" "R2"
+		(property "Reference" "R7"
 			(at 91.948 208.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9295,7 +9295,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 90.17 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -9337,7 +9337,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R2")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -9354,7 +9354,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f4eeb0f-64b8-43dc-828d-fff2108c6e2c")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR042"
 			(at 330.2 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -9414,7 +9414,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR035")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -9431,7 +9431,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4030112d-0c5f-4010-8645-aa86b9f5f8e7")
-		(property "Reference" "R10"
+		(property "Reference" "R17"
 			(at 219.964 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9453,7 +9453,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 217.17 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -9495,7 +9495,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R10")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -9513,7 +9513,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "476ac99b-3d84-48c7-9509-32941de61f1c")
-		(property "Reference" "U2"
+		(property "Reference" "U4"
 			(at 334.8833 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9631,7 +9631,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "U2")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -9649,7 +9649,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "478ee232-2aa6-45f3-ade6-611c9b706a40")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR047"
 			(at 347.98 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -9709,7 +9709,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR040")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -9726,7 +9726,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4896a0f5-a51f-4405-a3fd-b3dbfb696316")
-		(property "Reference" "C22"
+		(property "Reference" "C29"
 			(at 349.758 44.704 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9748,7 +9748,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 347.98 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -9790,7 +9790,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C22")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -9807,7 +9807,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "49297ac9-073a-477c-bc40-ca6d94a1399f")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR013"
 			(at 100.33 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -9867,7 +9867,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR07")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -9885,7 +9885,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51e71be9-727a-447f-8970-3723d301eadf")
-		(property "Reference" "C12"
+		(property "Reference" "C33"
 			(at 364.49 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9907,7 +9907,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:Jadak_Thingmagic_M6e-Nano"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 361.95 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -9949,7 +9949,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C12")
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -9966,7 +9966,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "563fb3de-7276-41b5-b8d3-4888ca760c2a")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR015"
 			(at 111.76 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -10027,7 +10027,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR047")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -10044,7 +10044,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "58fb82d6-77b7-4150-8855-ba097146a442")
-		(property "Reference" "C20"
+		(property "Reference" "C10"
 			(at 110.998 197.104 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10066,7 +10066,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 109.22 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -10108,7 +10108,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C20")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -10125,7 +10125,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5aba3ba6-4958-45cf-886f-fbb06d6d6a00")
-		(property "Reference" "C26"
+		(property "Reference" "C25"
 			(at 331.47 78.994 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10147,7 +10147,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 332.74 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -10189,7 +10189,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C26")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -10206,7 +10206,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5af8ea71-d9f9-45d4-ad4e-9f6bfaf852de")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR039"
 			(at 323.85 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -10266,7 +10266,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR026")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -10283,7 +10283,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5b66d4cd-a48e-4d43-91cc-79001e75fbcd")
-		(property "Reference" "C16"
+		(property "Reference" "C6"
 			(at 91.948 216.408 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10305,7 +10305,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 90.17 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -10347,7 +10347,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C16")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -10364,7 +10364,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5edb4b38-f9b6-4482-9933-de3546e8f47e")
-		(property "Reference" "C31"
+		(property "Reference" "C17"
 			(at 301.244 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10386,7 +10386,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 307.34 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -10428,7 +10428,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C31")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -10446,7 +10446,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f6efd27-2e96-450d-bd83-fd39469a4c05")
-		(property "Reference" "U3"
+		(property "Reference" "U5"
 			(at 334.8833 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10555,7 +10555,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "U3")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -10572,7 +10572,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "60af8ac7-cd46-46ad-87e8-4c76e5f9a050")
-		(property "Reference" "C30"
+		(property "Reference" "C18"
 			(at 303.784 90.424 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10594,7 +10594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 309.88 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10636,7 +10636,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C30")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -10653,7 +10653,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "63d9085f-b66d-45b5-99f5-20646778ad22")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR04"
 			(at 71.12 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -10713,7 +10713,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR052")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -10730,7 +10730,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "643bee0f-a13f-4d5b-bb22-56c0b182ccff")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR023"
 			(at 214.63 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -10790,7 +10790,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR051")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -10807,7 +10807,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6660ae36-c06b-47a1-b7fc-fec0fd6bd7dd")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR014"
 			(at 109.22 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -10867,7 +10867,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR09")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -10884,7 +10884,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "682f66cc-a240-4248-8018-57918f0652ab")
-		(property "Reference" "C28"
+		(property "Reference" "C23"
 			(at 318.008 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10906,7 +10906,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 323.85 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -10948,7 +10948,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C28")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -10966,7 +10966,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6958c3a7-98b0-48b5-9295-4c5ff584c32f")
-		(property "Reference" "C2"
+		(property "Reference" "C30"
 			(at 351.79 109.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10988,7 +10988,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:Jadak_Thingmagic_M6e-Nano"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 349.25 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -11030,7 +11030,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C2")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -11068,7 +11068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XC6220B331PRG"
+		(property "Footprint" ""
 			(at 342.9 143.18 0)
 			(hide yes)
 			(show_name no)
@@ -11228,7 +11228,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6c63f029-af01-4471-970e-4be77094bde3")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR045"
 			(at 335.28 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -11288,7 +11288,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR033")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -11306,7 +11306,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6cf0d2df-435e-44da-8472-a088cc4a6f10")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG03"
 			(at 359.41 46.355 0)
 			(hide yes)
 			(show_name no)
@@ -11366,7 +11366,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#FLG02")
+					(reference "#FLG03")
 					(unit 1)
 				)
 			)
@@ -11383,7 +11383,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6d8b6e8e-44ba-407d-9ed2-05db80b4a316")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR040"
 			(at 327.66 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -11443,7 +11443,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR034")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -11460,7 +11460,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6f270c53-b623-4194-b4c8-9caa21231397")
-		(property "Reference" "R17"
+		(property "Reference" "R8"
 			(at 95.25 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11482,7 +11482,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 93.98 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -11524,7 +11524,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R17")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -11541,7 +11541,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "702cac37-ea60-4950-8b62-e5b09aedcffb")
-		(property "Reference" "C4"
+		(property "Reference" "C32"
 			(at 351.79 116.586 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11561,7 +11561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RF_Module:Jadak_Thingmagic_M6e-Nano"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 351.79 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -11603,7 +11603,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C4")
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -11754,7 +11754,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "77b1fb66-5389-444a-a13c-6369009613b6")
-		(property "Reference" "R14"
+		(property "Reference" "R2"
 			(at 72.136 90.424 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11776,7 +11776,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 73.66 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -11818,7 +11818,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R14")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -11835,7 +11835,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "785369c4-4588-4c70-8ff5-114cecac00f5")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR031"
 			(at 311.15 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -11896,7 +11896,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR022")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -11935,7 +11935,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 40.64 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -11994,7 +11994,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7c7c6dd5-e276-47d7-a91e-c9d882e518fc")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR054"
 			(at 361.95 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -12055,7 +12055,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR030")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -12151,7 +12151,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d195ca4-2200-49c7-bc7e-7563cb3b5426")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR024"
 			(at 209.55 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -12211,7 +12211,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR053")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -12228,7 +12228,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7dc37870-046a-412b-9ea5-c6e59e685ace")
-		(property "Reference" "C32"
+		(property "Reference" "C24"
 			(at 325.12 154.94 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12248,7 +12248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RF_Module:Jadak_Thingmagic_M6e-Nano"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 325.12 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -12290,7 +12290,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C32")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -12307,7 +12307,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7ffd0474-d334-484b-9b33-b38886cd75df")
-		(property "Reference" "C18"
+		(property "Reference" "C7"
 			(at 93.218 197.104 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12329,7 +12329,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 91.44 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -12371,7 +12371,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C18")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -12388,7 +12388,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "80595ed0-16bf-46f6-88ac-5e486213f2b0")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR041"
 			(at 330.2 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -12448,7 +12448,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR019")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -12465,7 +12465,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "85be831c-1869-4969-a91f-f19486626ef9")
-		(property "Reference" "C35"
+		(property "Reference" "C12"
 			(at 113.03 144.526 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12487,7 +12487,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 111.76 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -12529,7 +12529,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C35")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -12546,7 +12546,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "89f83d4a-76d8-4dde-b4ff-875e17d36f71")
-		(property "Reference" "C36"
+		(property "Reference" "C3"
 			(at 64.77 96.266 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12568,7 +12568,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 63.5 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -12610,7 +12610,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C36")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -12627,7 +12627,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9052b4c8-d9d2-463e-a017-f860c317f252")
-		(property "Reference" "C24"
+		(property "Reference" "C15"
 			(at 170.688 212.852 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12649,7 +12649,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 168.91 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -12691,7 +12691,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C24")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -12709,7 +12709,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90f33011-83e7-45d3-9295-c78f80b2c8e1")
-		(property "Reference" "SW4"
+		(property "Reference" "SW3"
 			(at 86.36 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12771,7 +12771,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "SW4")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -12788,7 +12788,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "91053a9c-3a48-46b4-b3be-b2cded217579")
-		(property "Reference" "R20"
+		(property "Reference" "R3"
 			(at 72.136 105.664 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12810,7 +12810,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 73.66 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -12852,7 +12852,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R20")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -12869,7 +12869,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9418fd2e-3689-4701-b2df-08ae9a75ad2d")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR032"
 			(at 311.15 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -12930,7 +12930,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR023")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -12947,7 +12947,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "96b815e5-e5f6-4807-8c8f-26f65da66e90")
-		(property "Reference" "R18"
+		(property "Reference" "R9"
 			(at 95.25 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12969,7 +12969,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 93.98 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -13011,7 +13011,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R18")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -13028,7 +13028,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "990844d1-a514-47d8-ae6d-1ffbe25d49fd")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR05"
 			(at 77.47 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -13088,7 +13088,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR08")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -13105,7 +13105,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9a4e8730-a783-48da-bf8e-124ace4cb7e7")
-		(property "Reference" "C29"
+		(property "Reference" "C22"
 			(at 311.658 87.884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13127,7 +13127,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 317.5 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -13169,7 +13169,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C29")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -13186,7 +13186,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9e933893-10da-4343-b17f-fb6bbd770b82")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR046"
 			(at 341.63 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -13246,7 +13246,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR054")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -13341,7 +13341,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a0019bdd-37d0-4699-bd97-a9ca04dfbae6")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR049"
 			(at 353.06 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -13402,7 +13402,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR015")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -13419,7 +13419,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a07e18af-dddc-48eb-91ab-d995656f079d")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR012"
 			(at 91.44 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -13479,7 +13479,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR06")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -13496,7 +13496,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a0efd0ab-c42e-4d01-9d6e-6565c679ae3c")
-		(property "Reference" "C19"
+		(property "Reference" "C9"
 			(at 102.108 197.104 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13518,7 +13518,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 100.33 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -13560,7 +13560,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C19")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -13578,7 +13578,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2a964f9-0c36-4d36-8d8c-2e58f7b13a6b")
-		(property "Reference" "C11"
+		(property "Reference" "C34"
 			(at 364.49 102.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13600,7 +13600,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:Jadak_Thingmagic_M6e-Nano"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 361.95 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -13642,7 +13642,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C11")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -13660,7 +13660,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a4ccfce1-ce3a-471f-ae07-dffc2f07adc5")
-		(property "Reference" "U5"
+		(property "Reference" "U2"
 			(at 137.16 27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13799,7 +13799,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "U5")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -13817,7 +13817,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a74687f5-d05c-439b-b312-95b642e84703")
-		(property "Reference" "#FLG03"
+		(property "Reference" "#FLG02"
 			(at 208.28 41.275 0)
 			(hide yes)
 			(show_name no)
@@ -13877,7 +13877,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#FLG03")
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -13894,7 +13894,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a8219d36-263f-4e7e-a3a3-96b3aafd4a59")
-		(property "Reference" "R12"
+		(property "Reference" "R13"
 			(at 128.016 91.694 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13916,7 +13916,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 129.54 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -13958,7 +13958,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R12")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -13975,7 +13975,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ab023e37-82a0-45a1-a854-a00fd2b14865")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR052"
 			(at 360.68 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -14036,7 +14036,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR024")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -14053,7 +14053,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ac9993da-a829-408c-b6ab-db9ced48d333")
-		(property "Reference" "C23"
+		(property "Reference" "C16"
 			(at 215.392 74.676 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14075,7 +14075,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 213.36 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -14117,7 +14117,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C23")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -14134,7 +14134,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b19da075-0b09-446c-8494-373fd3610a3a")
-		(property "Reference" "R16"
+		(property "Reference" "R5"
 			(at 85.09 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14156,7 +14156,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 83.82 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -14198,7 +14198,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R16")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -14235,7 +14235,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Sunlord_SWPA4020S"
 			(at 85.09 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -14294,7 +14294,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b433ccd3-3107-4d19-ac2c-ab379ef064de")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR051"
 			(at 347.98 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -14354,7 +14354,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR017")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -14371,7 +14371,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b454590a-0539-4e5f-ba32-cb6cab9ac77d")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR029"
 			(at 317.5 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -14431,7 +14431,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR027")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -14448,7 +14448,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b4ba4ce4-453d-4026-b93a-7afd752a016c")
-		(property "Reference" "C17"
+		(property "Reference" "C5"
 			(at 84.328 197.104 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14470,7 +14470,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 82.55 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -14512,7 +14512,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C17")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -14529,7 +14529,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b5689d69-c7a7-4cb6-a9b3-1f6fe16c5169")
-		(property "Reference" "C3"
+		(property "Reference" "C28"
 			(at 341.122 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14551,7 +14551,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RF_Module:Jadak_Thingmagic_M6e-Nano"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 345.44 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -14593,7 +14593,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C3")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -14611,7 +14611,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b820ae4a-7319-4cf5-a361-f7776fc4b1e4")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR021"
 			(at 170.18 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -14671,7 +14671,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR010")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -14688,7 +14688,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b849bf23-a47d-41c5-b405-c208c85f3e8c")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR028"
 			(at 314.96 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -14748,7 +14748,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR018")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -14765,7 +14765,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b98537e0-d2b1-47da-8eb2-d48450ddc351")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR011"
 			(at 85.09 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -14826,7 +14826,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR043")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -14843,7 +14843,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bd0de6db-8201-4117-8bfe-9834b5796145")
-		(property "Reference" "R15"
+		(property "Reference" "R12"
 			(at 120.65 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14865,7 +14865,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 119.38 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14907,7 +14907,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R15")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -14924,7 +14924,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bd287db7-40dd-442f-9fe8-fecf15615f88")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR036"
 			(at 313.69 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -14985,7 +14985,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR038")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -15022,7 +15022,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RF_Module:Jadak_Thingmagic_M6e-Nano"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 339.09 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -15081,7 +15081,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c224b6b2-5777-4556-a5fb-d68528f0b27b")
-		(property "Reference" "R6"
+		(property "Reference" "R16"
 			(at 145.542 205.994 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15103,7 +15103,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 143.51 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -15145,7 +15145,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R6")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -15162,7 +15162,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c42684fe-74f4-4c18-96b9-6acc91ac355a")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR035"
 			(at 313.69 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -15223,7 +15223,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR037")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -15240,7 +15240,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c6687f9f-20dc-4242-9cf4-8fcb22148d54")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR034"
 			(at 312.42 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -15301,7 +15301,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR016")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -15318,7 +15318,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ca134846-e357-400b-aded-c994d48c9883")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR053"
 			(at 361.95 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -15379,7 +15379,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR031")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -15396,7 +15396,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cdf8c8eb-5504-4b2c-b7d5-f985467694ce")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR02"
 			(at 63.5 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -15457,7 +15457,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR049")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -15474,7 +15474,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cfdd5b55-662a-49a2-a469-ded50a3ed0b4")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR043"
 			(at 332.74 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -15534,7 +15534,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR032")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -15551,7 +15551,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d1f75bb1-1de4-42ad-8747-00a394dda9a8")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR09"
 			(at 82.55 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -15611,7 +15611,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR05")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -15628,7 +15628,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d274fb12-1d86-4623-ac97-27570005c790")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR017"
 			(at 119.38 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -15689,7 +15689,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR042")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -15706,7 +15706,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "daccc456-cc4f-406a-83b8-1b469c0191c6")
-		(property "Reference" "C14"
+		(property "Reference" "C2"
 			(at 48.768 202.184 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15728,7 +15728,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 46.99 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -15770,7 +15770,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C14")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -15788,7 +15788,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dce82470-d093-4f44-b55e-d8b441e556b1")
-		(property "Reference" "C5"
+		(property "Reference" "C31"
 			(at 351.79 180.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15810,7 +15810,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:Jadak_Thingmagic_M6e-Nano"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 349.25 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -15852,7 +15852,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C5")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -15869,7 +15869,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dee4c0c3-4936-4933-9514-b46403dbb053")
-		(property "Reference" "R11"
+		(property "Reference" "R21"
 			(at 354.838 97.536 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15891,7 +15891,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 355.6 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -15933,7 +15933,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R11")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -15950,7 +15950,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "df57d9f0-4a17-418a-b0f2-36408dd67487")
-		(property "Reference" "R7"
+		(property "Reference" "R19"
 			(at 301.498 112.776 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15972,7 +15972,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 302.26 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -16014,7 +16014,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R7")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -16031,7 +16031,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e10e98fc-431b-4e85-a1f8-f0d4ec6496be")
-		(property "Reference" "R19"
+		(property "Reference" "R11"
 			(at 102.616 138.684 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16053,7 +16053,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 104.14 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -16095,7 +16095,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R19")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -16112,7 +16112,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e16e00d1-a791-4111-8ebd-a42749c89bf4")
-		(property "Reference" "C15"
+		(property "Reference" "C1"
 			(at 41.91 211.836 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16134,7 +16134,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 40.64 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -16176,7 +16176,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C15")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -16193,7 +16193,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e3a90785-cd2b-4f13-a0fb-66ccade40bc7")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR022"
 			(at 177.8 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -16253,7 +16253,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR013")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -16270,7 +16270,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e3bd966a-47d5-4623-8350-144b72870863")
-		(property "Reference" "C37"
+		(property "Reference" "C4"
 			(at 64.77 111.506 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16292,7 +16292,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 63.5 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -16334,7 +16334,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C37")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -16351,7 +16351,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e4066a93-125f-40c5-bdec-fa6d09c57668")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR050"
 			(at 353.06 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -16412,7 +16412,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR014")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -16429,7 +16429,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e739809f-107d-4967-912c-ca102b7be5a7")
-		(property "Reference" "C33"
+		(property "Reference" "C13"
 			(at 138.43 97.536 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16451,7 +16451,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 137.16 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -16493,7 +16493,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C33")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -16510,7 +16510,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e85c53be-65cc-43fb-b1d1-324627b79ef1")
-		(property "Reference" "R4"
+		(property "Reference" "R15"
 			(at 137.668 199.136 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16532,7 +16532,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 138.43 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -16574,7 +16574,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R4")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -16591,7 +16591,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ecb8548d-5630-445b-9b01-bac2b6f1d33d")
-		(property "Reference" "C21"
+		(property "Reference" "C14"
 			(at 140.208 207.518 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16613,7 +16613,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 138.43 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -16655,7 +16655,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "C21")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -16672,7 +16672,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ececf846-7625-455e-9d86-2cd6de816d67")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR037"
 			(at 313.69 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -16733,7 +16733,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR036")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -16750,7 +16750,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ed50f3f2-9c9e-4d7e-906e-1eeae939df6e")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR020"
 			(at 167.64 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -16810,7 +16810,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR04")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -16828,7 +16828,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eda2170b-0a9b-49e5-a4e0-fbf09be65609")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 327.025 210.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16848,7 +16848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:WQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias"
+		(property "Footprint" ""
 			(at 328.93 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -16902,7 +16902,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -16920,7 +16920,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "edfc9496-02c0-47f6-9780-3d1c6a980e20")
-		(property "Reference" "SW2"
+		(property "Reference" "SW4"
 			(at 105.41 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16991,7 +16991,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "SW2")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -17008,7 +17008,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f37c6fd1-d58d-43f3-9564-b966ac1f3809")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR038"
 			(at 316.23 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -17069,7 +17069,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR041")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -17086,7 +17086,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f756b89e-df5b-495c-b3c1-7b746e1dd0e5")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR03"
 			(at 63.5 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -17147,7 +17147,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR050")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -17164,7 +17164,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f8df2a3c-00d6-4b3c-949a-1991b2273580")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR07"
 			(at 74.93 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -17225,7 +17225,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR044")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -17242,7 +17242,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f9093a0d-6e3d-425a-a73b-666465bb89d8")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR018"
 			(at 137.16 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -17303,7 +17303,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR046")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -17320,7 +17320,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f96079f6-c26e-46d3-a6fc-9a6256b74f05")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR044"
 			(at 341.63 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -17380,7 +17380,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR020")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -17397,7 +17397,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fca6c680-ecaf-4f73-a3ed-1777d906c2f0")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR010"
 			(at 90.17 229.87 0)
 			(hide yes)
 			(show_name no)
@@ -17457,7 +17457,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "#PWR02")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -17474,7 +17474,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fe47da26-6e5d-4c29-b74d-0813bcfd7121")
-		(property "Reference" "R3"
+		(property "Reference" "R4"
 			(at 78.74 214.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17496,7 +17496,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 77.47 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -17538,7 +17538,7 @@
 		(instances
 			(project "audio_player"
 				(path "/b494b84f-4846-40ac-b373-a226c6c544f1"
-					(reference "R3")
+					(reference "R4")
 					(unit 1)
 				)
 			)
