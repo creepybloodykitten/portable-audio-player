@@ -11068,7 +11068,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "XC6220B331PR-G:XC6220B331PRG"
 			(at 342.9 143.18 0)
 			(hide yes)
 			(show_name no)
@@ -11641,7 +11641,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "IP5306:SOIC127P600X165-9N"
 			(at 66.04 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -13680,7 +13680,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LicheeRV_Nano_W:LicheeRV_Nano"
 			(at 87.63 87.63 0)
 			(hide yes)
 			(show_name no)

@@ -32,7 +32,7 @@
   (pad 5 smd rect (at -1.500 -1.85 0) (size 0.700 1.500) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 0.000 -1.725 0) (size 1.000 1.750) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at 0.000 -0 90) (size 1.700 2.000) (layers F.Cu F.Paste F.Mask))
-  (model XC6220B331PR-G.stp
+  (model "${KIPRJMOD}/libs/XC6220B331PR-G/XC6220B331PR-G.stp"
     (at (xyz 0 -0.0039370079326817 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

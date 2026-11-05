@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "XC6220B331PR-G") (type "KiCad") (uri "${KIPRJMOD}/libs/XC6220B331PR-G") (options "") (descr ""))
+	(lib (name "IP5306") (type "KiCad") (uri "${KIPRJMOD}/libs/IP5306") (options "") (descr ""))
+	(lib (name "LicheeRV_Nano_W") (type "KiCad") (uri "${KIPRJMOD}/libs/LicheeRV_Nano_W") (options "") (descr ""))
+)

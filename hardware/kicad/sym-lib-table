@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "IP5306-I2C") (type "KiCad") (uri "${KIPRJMOD}/libs/IP5306/IP5306-I2C.kicad_sym") (options "") (descr ""))
+	(lib (name "licheerv_nano_w") (type "KiCad") (uri "${KIPRJMOD}/libs/LicheeRV_Nano_W/licheerv_nano_w.kicad_sym") (options "") (descr ""))
+)
