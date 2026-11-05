@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPA6132A2RTER
+D Audio Power OpAmps WQFN-16 RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/Texas-Instruments-TI-TPA6132A2RTER_C69901.pdf
+$ENDCMP
+#
+#End Doc Library

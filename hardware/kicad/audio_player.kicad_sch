@@ -11641,7 +11641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "C488349:ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP2.0"
+		(property "Footprint" ""
 			(at 66.04 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -13680,7 +13680,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Module:LicheeRV_Nano"
+		(property "Footprint" ""
 			(at 87.63 87.63 0)
 			(hide yes)
 			(show_name no)
