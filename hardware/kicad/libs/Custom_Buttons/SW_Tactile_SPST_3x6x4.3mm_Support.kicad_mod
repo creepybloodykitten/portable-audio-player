@@ -1,0 +1,54 @@
+(footprint "SW_Tactile_SPST_3x6x4.3mm_Support"
+	(version 20240108)
+	(generator "antigravity")
+	(layer "F.Cu")
+	(descr "Tactile Switch SPST Right Angle 3x6x4.3mm with metal support bracket, Chinese TS-A023 / TC-0104 series")
+	(tags "tactile switch right angle side support 3x6 3.6x6")
+	(property "Reference" "REF**"
+		(at 0 -5.5 0)
+		(layer "F.SilkS")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_Tactile_SPST_3x6x4.3mm_Support"
+		(at 0 5.0 0)
+		(layer "F.Fab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	
+	(fp_line (start -3.65 -2.5) (end 3.65 -2.5) (stroke (width 0.12) (type solid)) (layer "F.SilkS"))
+	(fp_line (start 3.65 -2.5) (end 3.65 3.5) (stroke (width 0.12) (type solid)) (layer "F.SilkS"))
+	(fp_line (start 3.65 3.5) (end -3.65 3.5) (stroke (width 0.12) (type solid)) (layer "F.SilkS"))
+	(fp_line (start -3.65 3.5) (end -3.65 -2.5) (stroke (width 0.12) (type solid)) (layer "F.SilkS"))
+	
+	(fp_line (start -1.5 -2.5) (end -1.5 -4.0) (stroke (width 0.12) (type solid)) (layer "F.SilkS"))
+	(fp_line (start -1.5 -4.0) (end 1.5 -4.0) (stroke (width 0.12) (type solid)) (layer "F.SilkS"))
+	(fp_line (start 1.5 -4.0) (end 1.5 -2.5) (stroke (width 0.12) (type solid)) (layer "F.SilkS"))
+	
+	(fp_rect (start -4.65 -4.25) (end 4.65 3.8) (stroke (width 0.05) (type solid)) (fill no) (layer "F.CrtYd"))
+	
+	(pad "1" thru_hole circle (at -2.5 0) (size 1.7 1.7) (drill 0.95) (layers "*.Cu" "*.Mask"))
+	
+	(pad "2" thru_hole circle (at 2.5 0) (size 1.7 1.7) (drill 0.95) (layers "*.Cu" "*.Mask"))
+	
+	(pad "" thru_hole circle (at -3.5 2.5) (size 2.1 2.1) (drill 1.3) (layers "*.Cu" "*.Mask"))
+	
+	(pad "" thru_hole circle (at 3.5 2.5) (size 2.1 2.1) (drill 1.3) (layers "*.Cu" "*.Mask"))
+	
+	(model "${KIPRJMOD}/libs/Custom_Buttons/SW_Tactile_SPST_3x6x4.3mm_Support.wrl"
+		(offset (xyz 0 0 0))
+		(scale (xyz 1 1 1))
+		(rotate (xyz 0 0 0))
+	)
+)

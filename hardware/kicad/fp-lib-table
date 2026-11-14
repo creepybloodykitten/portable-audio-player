@@ -3,4 +3,8 @@
 	(lib (name "XC6220B331PR-G") (type "KiCad") (uri "${KIPRJMOD}/libs/XC6220B331PR-G") (options "") (descr ""))
 	(lib (name "IP5306") (type "KiCad") (uri "${KIPRJMOD}/libs/IP5306") (options "") (descr ""))
 	(lib (name "LicheeRV_Nano_W") (type "KiCad") (uri "${KIPRJMOD}/libs/LicheeRV_Nano_W") (options "") (descr ""))
+  (lib (name "Custom_Buttons") (type "KiCad") (uri "${KIPRJMOD}/libs/Custom_Buttons") (options "") (descr "Custom tactile switch with bracket"))
+  (lib (name "EC11_Encoder") (type "KiCad") (uri "${KIPRJMOD}/libs/EC11_Encoder") (options "") (descr "EC11 horizontal rotary encoder with switch"))
+  (lib (name "Custom_Battery") (type "KiCad") (uri "${KIPRJMOD}/libs/Custom_Battery") (options "") (descr "Direct solder wire pads for battery"))
+  (lib (name "SJ_3524_SMT") (type "KiCad") (uri "${KIPRJMOD}/libs/SJ_3524_SMT") (options "") (descr "3.5mm horizontal audio jack"))
 )

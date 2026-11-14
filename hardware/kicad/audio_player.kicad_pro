@@ -63,13 +63,19 @@
           "min_clearance": 0.5,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 1,
+          "pad_connection": 0,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -206,7 +212,9 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -233,7 +241,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -674,7 +687,7 @@
         "uuid": "b494b84f-4846-40ac-b373-a226c6c544f1"
       }
     ],
-    "used_designators": "#FLG1-4,#PWR1-54,BT1,C1-37,D1,IC1,J1-5,L1,LicheeRV_Nano_W1-3,R1-21,SW1-4,U1-7",
+    "used_designators": "#FLG1-5,#PWR1-54,BT1,C1-37,D1,IC1,J1-5,L1,LicheeRV_Nano_W1-3,R1-21,SW1-4,U1-7",
     "variants": []
   },
   "sheets": [
