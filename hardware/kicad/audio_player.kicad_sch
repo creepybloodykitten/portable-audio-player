@@ -16533,7 +16533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EC11_Encoder:RotaryEncoder_EC11_Horizontal_Switch"
+		(property "Footprint" "SIQ_02FVS3:RotaryEncoder_Mitsumi_SIQ-02FVS3_Horizontal"
 			(at 81.28 42.926 0)
 			(hide yes)
 			(show_name no)
